@@ -1,2 +1,2 @@
 # Documentation
-place to host images for docs
+Place to host images for docs
